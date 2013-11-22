@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=uClick
+Version=1.2.5
+Comment=A simple metronome
+Exec=uclick
+Icon=uclick
+Terminal=false
+Type=Application
+Path=/opt/extras.ubuntu.com/uclick
+Categories=Audio;

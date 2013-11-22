@@ -1,0 +1,6 @@
+#!/bin/sh
+
+qmlscene uclick.qml
+
+exit 0
+
